@@ -33,9 +33,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql" /><br> <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=ai, anaconda, opencv, sklearn, tensorflow, pytorch, azure" /><br> <!-- AI/ML related -->
-    <img src="https://skillicons.dev/icons?i=vscode, raspberrypi, matlab, arduino" /><br> <!-- Frameworks -->
-    <img src="https://skillicons.dev/icons?i=git, github, latex, " /><br> <!-- Others -->
+    <img src="https://skillicons.dev/icons?i=ai,anaconda,pytorch,tensorflow,opencv,sklearn,azure" /><br> <!-- AI/ML related -->
+    <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,matlab,arduino" /><br> <!-- Frameworks -->
+    <img src="https://skillicons.dev/icons?i=git,github,latex" /><br> <!-- Others -->
 </div>
 
 <!--
