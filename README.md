@@ -29,6 +29,14 @@
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c, cpp, py, mysql" /><br> <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=ai, anaconda, opencv, sklearn, tensorflow, pytorch, azure" /><br> <!-- AI/ML related -->
+    <img src="https://skillicons.dev/icons?i=vscode, raspberrypi, matlab, arduino" /><br> <!-- Frameworks -->
+    <img src="https://skillicons.dev/icons?i=git, github, latex, " /><br> <!-- Others -->
+</div>
 
 <!--
 **underdevv16/underdevv16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
