@@ -32,11 +32,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,py,git" /><br> <!-- L1 -->
-    <img src="https://skillicons.dev/icons?i=c,ai,anaconda,github" /><br> <!--L2--> 
-    <img src="https://skillicons.dev/icons?i=matlab,opencv,tensorflow,pytorch,arduino" /><br> <!--L3-->
-    <img src="https://skillicons.dev/icons?i=sklearn,azure,latex" /><br> <!-- L4 -->
-    <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,mysql" /><br> <!-- L5 -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" /><br> <!-- L1 -->
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,anaconda" /><br> <!--L2--> 
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,ai,tensorflow,sklearn" /><br> <!--L3-->
+    <img src="https://skillicons.dev/icons?i=raspberrypi,azure,latex,matlab" /><br> <!-- L4 -->
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,pycharm" /><br> <!-- L5 -->
 </div>
 
 
