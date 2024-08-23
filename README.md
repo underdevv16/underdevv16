@@ -32,10 +32,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,git,github" /><br> <!-- L1 -->
-    <img src="https://skillicons.dev/icons?i=ai,anaconda,pytorch,tensorflow,opencv,sklearn" /><br> <!-- AI/ML related -->
-    <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,matlab,arduino,latex,azure" /><br> <!-- L3 -->
+    <img src="https://skillicons.dev/icons?i=cpp,py,git" /><br> <!-- L1 -->
+    <img src="https://skillicons.dev/icons?i=c,ai,anaconda,github" /><br> <!--L2--> 
+    <img src="https://skillicons.dev/icons?i=matlab,opencv,tensorflow,pytorch,arduino" /><br> <!--L3-->
+    <img src="https://skillicons.dev/icons?i=sklearn,azure,latex" /><br> <!-- L4 -->
+    <img src="https://skillicons.dev/icons?i=vscode,raspberrypi,mysql" /><br> <!-- L5 -->
 </div>
+
 
 <!--
 **underdevv16/underdevv16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
