@@ -33,9 +33,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,py" /><br> <!-- L1 -->
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,anaconda" /><br> <!--L2--> 
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,ai,tensorflow,sklearn" /><br> <!--L3-->
-    <img src="https://skillicons.dev/icons?i=raspberrypi,azure,latex,matlab" /><br> <!-- L4 -->
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,postman" /><br> <!--L2--> 
+    <img src="https://skillicons.dev/icons?i=opencv,django,pytorch,tensorflow,sklearn" /><br> <!--L3-->
+    <img src="https://skillicons.dev/icons?i=raspberrypi,azure,,anaconda,latex" /><br> <!-- L4 -->
     <img src="https://skillicons.dev/icons?i=vscode,arduino,pycharm" /><br> <!-- L5 -->
 </div>
 
